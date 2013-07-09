@@ -7,3 +7,4 @@ Test of editing online. -R
 
 Another test, using Sublime Text 2 and GitHub GUI. -R
 
+This is entered in Rich Test Branch 3 - R
